@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+center{
+    font-family: 'VT323', monospace;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+#modal{
+    float: right;
+}
+.heading h3{
+    display: inline;
+}
+.status{
+    font-size: 23px;
+}
+.style{
+    font-size: 23px;
+}
